@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+scikit-learn
+imblearn
+scipy
+matplotlib
+pymfe
+problexity
+ripser
+persim
